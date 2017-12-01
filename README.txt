@@ -1,9 +1,9 @@
--- N'ayant jamais utilisé le langage Java Spring Boot, j'ai du faire des recherches 
+-- N'ayant jamais utilise le langage Java Spring Boot, j'ai du faire des recherches
    afin de comprendre l'utilisation de celui-ci.
 
--- Malheuresement, je n'ai pas réussi à implémenter la parite Login. 
+-- Malheuresement, je n'ai pas reussi Ã  implementer la partie Login.
 
--- Néanmoins la parite CRUD est fonctionnelle.
+-- Neanmoins la partie CRUD est fonctionnelle.
 
 -------------------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@
    http://localhost:9043
 
 
--- La partie  CRUD est composé de 2 éléments :
+-- La partie  CRUD est composÃ© de 2 Ã©lÃ©ments :
 
    un formulaire avec des champs afin d'ajouter des bateaux   
  
@@ -27,4 +27,3 @@
 
 
 
-https://github.com/nunesisaac/BoatsManagement.git
